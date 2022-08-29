@@ -1,0 +1,36 @@
+    1  history
+    2  cd ~/Desktop
+    3  mkdir myproject
+    4  mkdir myproject
+    5  cd myproject/
+    6  git init
+    7  touch newFile.txt
+    8  ls
+    9  git status
+   10  git commit -m "First commit"
+   11  git branch -M main
+   12  git remote add origin https://github.com/Yiralle/ws_1.git
+   13  git push -u origin main
+   14  git add .
+   15  git push -u origin main
+   16  git branch -M main
+   17  git push -u origin main
+   18  cd ~/Desktop
+   19  mkdir myprojects
+   20  cd myprojects/
+   21  git add .
+   22  git status
+   23  cd ~/Desktop
+   24  mkdir myproject
+   25  cd myproject/
+   26  git init
+   27  touch newFile.txt
+   28  ls
+   29  git status
+   30  git add .
+   31  git status
+   32  git commit -m "First commit"
+   33  git branch -M main
+   34  git remote add origin https://github.com/Yiralle/ws_1.git
+   35  git push -u origin main
+   36  history > cmds.log
